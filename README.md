@@ -1,6 +1,6 @@
 ### Hi there Ankush Here👋
 
-I am a Software Engineer whos actively looking for opportinuities in Machine Learning. I have good knowledge about Software Engineering, General Machine Learning, Computer Vision Applications, Deep Learning Algorithms and Some NLP.
+I am a Software Engineer who's actively looking for opportinuities in Machine Learning. I have good knowledge about Software Engineering, General Machine Learning, Computer Vision Applications, Deep Learning Algorithms and Some NLP.
 
 - 🔭 Recently, I have build [HELPMEREAD](https://github.com/Anku5hk/Help-Me-Read), a End-to-End flask application which uses NLP to generate summaries, Generate Questions and verifies User's Answers.
 - 🔭 I have build android application to test common computer vision model's inference on android [here](https://github.com/Anku5hk/Android-Model-Tester).
