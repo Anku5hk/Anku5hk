@@ -2,7 +2,7 @@
 
 I am a Software Engineer who's actively looking for opportunities in Machine Learning. I have good knowledge about Software Engineering, General Machine Learning, Computer Vision Applications, Deep Learning Algorithms and Some NLP.
 
-- 🔭 All of my Recent work on deep learning and computer vision applications can be found [HERE](https://github.com/Anku5hk/The_ML_Workflow/)
+- 🔭 All of my Recent work activity on deep learning and computer vision applications can be found [HERE](https://github.com/Anku5hk/The_ML_Workflow/)
 - 🔭 I have build [Android-Image-Finder](https://github.com/Anku5hk/Image-Finder-Android) app to find images on local directory using OCR/Image Classification on android.
 - 🔭 I have also build [HELPMEREAD](https://github.com/Anku5hk/Help-Me-Read), a simple flask application which uses NLP to generate Text Summaries, Generate Questions, also verifies User's Answers using text similarity.
 - 🔭 I have build another android application to test common computer vision model's inference on android [here](https://github.com/Anku5hk/Android-Model-Tester).
