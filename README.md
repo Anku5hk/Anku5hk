@@ -1,4 +1,4 @@
-I am a Software Engineer who's looking for opportunities in Machine Learning. I have good knowledge about Software Engineering, General Machine Learning, Computer Vision Applications, Deep Learning Algorithms and Some NLP.
+I am a Software Engineer who's tinkering with Machine Learning. I have good knowledge about Software Engineering, General Machine Learning, Computer Vision Applications, Deep Learning Algorithms and Some NLP.
 
 - 🔭 All of my Recent work activity on deep learning and computer vision applications can be found [HERE](https://github.com/Anku5hk/The_ML_Workflow/)
 - 🔭 I have build [HELPMEREAD](https://github.com/Anku5hk/Help-Me-Read), a flask application which uses NLP to generate Text Summaries, Generate Questions, also verifies User's Answers using text similarity, soon a dedicated website launching.
